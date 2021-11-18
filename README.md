@@ -31,7 +31,7 @@ SVM
 KNN
 </li>
 </ul>
-The evaluation methods are:
+The evaluation methods used are:
 <ul>
 <li>
 Precision
