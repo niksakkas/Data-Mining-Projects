@@ -14,6 +14,7 @@
 <li>sklearn</li>
 <li>itertools</li>
 <li>scipy</li>
+<li>folium</li>
 <li>gensim</li>
 <li>math</li>
 
