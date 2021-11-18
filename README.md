@@ -31,6 +31,25 @@ SVM
 KNN
 </li>
 </ul>
+The evaluation methods are:
+<ul>
+<li>
+Precision
+</li>
+<li>
+Recall
+</li>
+<li>
+F measure
+</li>
+<li>
+Accuracy
+</li>
+<li>
+ROC Curve
+</li>
+</ul>
+ 
 </li>
 <li>Create my own custom classifier and run him on the test data.</li>
 <li>Clustering using PCA and ICA.</li>
