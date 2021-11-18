@@ -3,17 +3,17 @@
 
 📁 Python Libraries Required:
 
-&emsp;<li>numpy</li>
-&emsp;<li>pandas</li>
-&emsp;<li>wordcloud</li>
-&emsp;<li>collections</li>
-&emsp;<li>wordcloud</li>
-&emsp;<li>os</li>
-&emsp;<li>matplotlib.pyplot</li>
-&emsp;<li>nltk</li>
-&emsp;<li>sklearn</li>
-&emsp;<li>itertools</li>
-&emsp;<li>scipy</li>
-&emsp;<li>gensim</li>
-&emsp;<li>math</li>
+<li>numpy</li>
+<li>pandas</li>
+<li>wordcloud</li>
+<li>collections</li>
+<li>wordcloud</li>
+<li>os</li>
+<li>matplotlib.pyplot</li>
+<li>nltk</li>
+<li>sklearn</li>
+<li>itertools</li>
+<li>scipy</li>
+<li>gensim</li>
+<li>math</li>
 
