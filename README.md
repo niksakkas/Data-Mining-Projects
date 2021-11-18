@@ -46,7 +46,7 @@ F measure
 Accuracy
 </li>
 <li>
-ROC Curve
+ROC Curves
 </li>
 </ul>
  
