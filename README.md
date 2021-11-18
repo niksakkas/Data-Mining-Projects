@@ -1,7 +1,7 @@
 # Data-Mining-Projects
 
 
-📁 Python Libraries Required
+📁 Python Libraries Required:
 
 <li>
 numpy
@@ -24,5 +24,21 @@ os
 <li>
 matplotlib.pyplot
 </li>
+<li>
+nltk
+</li>
+<li>
+sklearn
+</li>
+<li>
+itertools
+
+</li>
+<li>
+scipy
+
+</li>
+
+
 
 
