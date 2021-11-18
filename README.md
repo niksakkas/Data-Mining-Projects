@@ -7,9 +7,10 @@ These projects are from my undergraduate Data Mining program.
 In the first project we use a dataframe created from various Airbnb apartments in the centre of Athens. 
 
 <ol>
-<li>The first goal is to use this data to extract information and answer various questions regarding real estate in Athens. </li>
-<li>Secondly, I implement symbolic and statistical natural language processing using NLTK.</li>
+<li>The first goal is to use this data to extract information and answer various questions regarding real estate in Athens. We create plots and wordclouds visualising the answers. </li>
+<li>Secondly, I implement symbolic and statistical natural language processing using NLTK and sklearn metrics.</li>
 </ol>
+
 📁 Python Libraries Required:
 <ul>
 <li>numpy</li>
