@@ -56,7 +56,7 @@ ROC Curves
 </ol>
 
 
-## 📁 Python Libraries Required:
+## 📁 Python Libraries Required
 <ul>
 <li>numpy</li>
 <li>pandas</li>
