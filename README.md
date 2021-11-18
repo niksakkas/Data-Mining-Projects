@@ -1,6 +1,6 @@
 # Data-Mining-Projects
 
-These projects are from my undergraduate Data Mining program (summer 2020).
+These projects are from my undergraduate Data Mining program in the University of Athens (summer 2020).
 
 ## Project 1
 
@@ -56,7 +56,7 @@ ROC Curves
 </ol>
 
 
-📁 Python Libraries Required:
+## 📁 Python Libraries Required:
 <ul>
 <li>numpy</li>
 <li>pandas</li>
