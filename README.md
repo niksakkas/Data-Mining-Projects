@@ -1,6 +1,6 @@
 # Data-Mining-Projects
 
-These projects are from my undergraduate Data Mining program.
+These projects are from my undergraduate Data Mining program (summer 2020).
 
 ## Project 1
 
