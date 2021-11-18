@@ -11,7 +11,7 @@ In the first project we use a dataframe created from various Airbnb apartments i
 <li>Secondly, I implement symbolic and statistical natural language processing using NLTK.</li>
 </ol>
 📁 Python Libraries Required:
-
+<ul>
 <li>numpy</li>
 <li>pandas</li>
 <li>wordcloud</li>
@@ -26,4 +26,4 @@ In the first project we use a dataframe created from various Airbnb apartments i
 <li>folium</li>
 <li>gensim</li>
 <li>math</li>
-
+</ul>
