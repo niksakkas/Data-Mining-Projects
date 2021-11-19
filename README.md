@@ -13,7 +13,7 @@ In the first project I use a dataframe created from various Airbnb apartments in
 
 ## Project 2
 
-In the second project I use a dataframe containing various news articles of 5 different categories. is comprised of 4 parts:
+In the second project I use a dataframe containing various news articles of 5 different categories (business, entertainment, politics, sport, tech). It is comprised of 4 parts:
 <ol>
 <li>Load the training data and create a wordcloud for each category.</li>
 <li>Use this data to train multiple models to classify test data into these 5 categories. The models used are:
